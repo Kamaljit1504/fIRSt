@@ -14,6 +14,7 @@
 		9B03CC7923679B1D000300C9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B03CC7723679B1D000300C9 /* LaunchScreen.storyboard */; };
 		9B03CC8423679B1D000300C9 /* fIRStTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B03CC8323679B1D000300C9 /* fIRStTests.swift */; };
 		9B03CC8F23679B1D000300C9 /* fIRStUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B03CC8E23679B1D000300C9 /* fIRStUITests.swift */; };
+		9B03CC9D23679BC4000300C9 /* SecondViewContollerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B03CC9C23679BC4000300C9 /* SecondViewContollerViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		9B03CC8A23679B1D000300C9 /* fIRStUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = fIRStUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B03CC8E23679B1D000300C9 /* fIRStUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fIRStUITests.swift; sourceTree = "<group>"; };
 		9B03CC9023679B1D000300C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9B03CC9C23679BC4000300C9 /* SecondViewContollerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewContollerViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				9B03CC7523679B1D000300C9 /* Assets.xcassets */,
 				9B03CC7723679B1D000300C9 /* LaunchScreen.storyboard */,
 				9B03CC7A23679B1D000300C9 /* Info.plist */,
+				9B03CC9C23679BC4000300C9 /* SecondViewContollerViewController.swift */,
 			);
 			path = fIRSt;
 			sourceTree = "<group>";
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9B03CC9D23679BC4000300C9 /* SecondViewContollerViewController.swift in Sources */,
 				9B03CC7123679B1C000300C9 /* ViewController.swift in Sources */,
 				9B03CC6F23679B1C000300C9 /* AppDelegate.swift in Sources */,
 			);
